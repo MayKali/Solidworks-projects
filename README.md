@@ -1,4 +1,4 @@
-# Solidworks-projects
+# Solidworks Projects
 A list of solidworks assemblies I've worked on in my spare time. 
 
 
