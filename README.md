@@ -8,6 +8,7 @@ A list of solidworks assemblies I've worked on in my spare time.
 ![](images/Waterbottle.PNG)
 
 
-## 2) Desk Lamp (Work in Progress)
+## 2) Desk Lamp
 
+![](images/Lamp.PNG)
 
