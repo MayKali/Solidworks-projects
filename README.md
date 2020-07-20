@@ -1,5 +1,5 @@
 # Solidworks Projects
-A list of solidworks assemblies I've worked on in my spare time. 
+A compilation of solidworks assemblies I've worked on in my spare time. 
 
 
 ## 1) A 3D model of my water bottle
